@@ -1,2 +1,2 @@
 # Imaging
-Samples of veetation images
+Samples of vegetation images
