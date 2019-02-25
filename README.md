@@ -1,2 +1,2 @@
 # Imaging
-The collection of plant images
+Samples of veetation images
